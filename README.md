@@ -19,7 +19,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) |
+| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) |
 | **Interests** | System Design, Algorithm Optimization, Web Technologies, Digital Logic Design |
 
 ---
