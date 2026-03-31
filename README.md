@@ -1,16 +1,17 @@
 # Hi there, I'm Md Sarafat Alam Mozumder 👋
 
-### 👨‍💻 B.Sc. in Computer Science & Engineering | East West University
-**A Passionate Developer & Software System Provider building dynamic, user-centric applications.**
+### 🤖 Software & Robotics Enthusiast | B.Sc. in CSE @ East West University
+**Passionate about robotics, software engineering, and creative problem-solving. I thrive on learning, building, and collaborating on projects that bridge innovation and real-world impact.**
 
 ---
 
 ### 💼 Experience & Leadership
 
-- 🎓 **Learning Facilitator** @ East West University *(Summer 2023 - Present)*
-- 🤝 **Student Facilitator** @ East West University Club *(Autumn 2022 - Present)*
-- 🤖 **Senior Member** @ EWU Robotics Club *(Fall 2022 - Present)*
-- 🎨 **Former Graphic Designer & SMM** @ Prantik Academy *(2020 - 2022)*
+- 💻 **E-Learning Coordinator** @ Utsho Academic & Exam Care *(Oct 2025 - Present)*
+- ⚙️ **Associate Coordinator** @ East West University Robotics Club *(Jan 2025 - Present)*
+  - *Previously General Member (June 2023 - Dec 2024)*
+- 📱 **Marketing and Social Media Manager** @ Udanto Academy *(2023 - 2024)*
+- 🎓 **Campus Ambassador** @ Bondi Pathshala *(2021 - 2022)*
 
 ---
 
@@ -18,20 +19,19 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) |
-| **Interests** | System Design, Algorithm Optimization, Web Technologies, Digital Logic Design |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Web & Design** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-FF007F?logo=figma&logoColor=white) |
+| **Hardware & Tools** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
 ### 📂 Featured Projects
 
-* **[EWU CGPA Calculator](https://github.com/SarafatAlamIrfan/EWU-CGPA-Calculator)** - A seamless web tool built with HTML, CSS, and JavaScript for calculating and managing academic progress.
-* **[EWU Alumni Association](https://github.com/SarafatAlamIrfan/EWU-Alumni-Association.github.io)** - A web platform dashboard designed for university alumni.
-* **[Library Management System](https://github.com/SarafatAlamIrfan/Library-Management-System-using-Java)** - A comprehensive Java-based GUI system built for CSE110.
-* **[Password Strength Checker](https://github.com/SarafatAlamIrfan/Password-Strength-Checker)** - A custom security evaluation tool developed in C++.
-
-*(Check out my repositories below for more projects involving Restaurant Management, BCD Circuits, and JavaScript utilities!)*
+* **[Utsho-TaskHub](https://github.com/SarafatAlamIrfan)** - A role-based project management system built with PHP, MySQL, and Tailwind CSS. Features smart due-date automation and real-time visual analytics.
+* **[EWU CGPA Calculator](https://github.com/SarafatAlamIrfan/EWU-CGPA-Calculator)** - A modern web application with advanced features for East West University students to track their academic progress.
+* **[Library Management System](https://github.com/SarafatAlamIrfan/Library-Management-System-using-Java)** - A comprehensive Java-based system to streamline library operations.
+* **[Password Strength Checker](https://github.com/SarafatAlamIrfan/Password-Strength-Checker)** - A custom C++ application for evaluating password security.
+* **[BCD to 7-Segment Display](https://github.com/SarafatAlamIrfan/Binary-Coded-Decimal-BCD-to-7-Segment-Display-Driver-Circuit)** - An IC-based hardware/digital logic design project using decoders.
 
 ---
 
