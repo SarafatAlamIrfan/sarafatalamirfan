@@ -36,8 +36,10 @@
 ---
 
 ### 📈 GitHub Stats
-![Sarafat's Stats](https://github-readme-stats.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true" alt="Sarafat's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
