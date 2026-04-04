@@ -42,6 +42,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=SarafatAlamIrfan&color=green&style=flat-square)
 ---
 
 ### 📫 Connect with me
