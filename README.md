@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Md Sarafat Alam Mozumder
+# Hi there, I'm <span style="color: #8b5cf6;">Md Sarafat Alam Mozumder</span>
 
 <div align="center">
 
