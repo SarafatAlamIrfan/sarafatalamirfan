@@ -50,6 +50,8 @@
 
 ---
 
+<div align="center">
+  
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](http://sarafat.pro.bd/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sarafatalamirfan)
