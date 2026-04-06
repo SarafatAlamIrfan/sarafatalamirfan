@@ -1,6 +1,10 @@
 <div align="center">
+  
+![banner](https://github.com/user-attachments/assets/948ed19d-29d5-491c-ae89-2f474c09c12d)
 
-<h1>Hi there, I'm <img src="https://readme-typing-svg.demolab.com/?font=Arial&weight=bold&size=32&color=8b5cf6&vCenter=true&width=450&lines=Md+Sarafat+Alam+Mozumder" alt="Md Sarafat Alam Mozumder" align="center" /></h1>
+<div align="center">
+
+<h1>Hi there, I'm Md Sarafat Alam Mozumder
 
 <div align="center">
 
