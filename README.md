@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Md Sarafat Alam Mozumder 👋
+# Hi there, I'm Md Sarafat Alam Mozumder
 
 <div align="center">
 
@@ -12,6 +12,8 @@
 <div align="center">
 
 ### 💼 Experience & Leadership
+
+<div align="left">
 
 - 💻 **E-Learning Coordinator** @ Utsho Academic & Exam Care *(Oct 2025 - Present)*
 - ⚙️ **Associate Coordinator** @ East West University Robotics Club *(Jan 2025 - Present)*
@@ -33,7 +35,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 📂 Featured Projects
 
