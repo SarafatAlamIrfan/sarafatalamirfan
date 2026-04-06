@@ -1,9 +1,15 @@
+<div align="center">
+
 # Hi there, I'm Md Sarafat Alam Mozumder 👋
+
+<div align="center">
 
 ### 🤖 Software & Robotics Enthusiast | B.Sc. in CSE @ East West University
 **Passionate about robotics, software engineering, and creative problem-solving. I thrive on learning, building, and collaborating on projects that bridge innovation and real-world impact.**
 
 ---
+
+<div align="center">
 
 ### 💼 Experience & Leadership
 
@@ -15,6 +21,8 @@
 
 ---
 
+<div align="center">
+
 ### 🛠 Tech Stack & Skills
 
 | Category | Tools & Technologies |
@@ -24,6 +32,8 @@
 | **Hardware & Tools** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
+
+<div align="center">
 
 ### 📂 Featured Projects
 
