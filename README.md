@@ -40,6 +40,7 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Sarafat's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ![](https://komarev.com/ghpvc/?username=SarafatAlamIrfan&color=green&style=flat-square)
