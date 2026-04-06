@@ -35,10 +35,12 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ### 📂 Featured Projects
 
+<div align="left">
+  
 * **[Utsho-TaskHub](https://github.com/SarafatAlamIrfan)** - A role-based project management system built with PHP, MySQL, and Tailwind CSS. Features smart due-date automation and real-time visual analytics.
 * **[EWU CGPA Calculator](https://github.com/SarafatAlamIrfan/EWU-CGPA-Calculator)** - A modern web application with advanced features for East West University students to track their academic progress.
 * **[Library Management System](https://github.com/SarafatAlamIrfan/Library-Management-System-using-Java)** - A comprehensive Java-based system to streamline library operations.
