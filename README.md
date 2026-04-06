@@ -34,17 +34,21 @@
 * **[BCD to 7-Segment Display](https://github.com/SarafatAlamIrfan/Binary-Coded-Decimal-BCD-to-7-Segment-Display-Driver-Circuit)** - An IC-based hardware/digital logic design project using decoders.
 
 ---
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Sarafat's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  
+  ### 📈 GitHub Stats
+  <img src="https://komarev.com/ghpvc/?username=SarafatAlamIrfan&color=green&style=flat-square" alt="Profile views" />
+  <br><br>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Sarafat's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="195" />
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+
 </div>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=tokyonight)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=SarafatAlamIrfan&color=green&style=flat-square)
 ---
 
 ### 📫 Connect with me
