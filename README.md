@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <span style="color: #8b5cf6;">Md Sarafat Alam Mozumder</span>
+<h1>Hi there, I'm <img src="https://readme-typing-svg.demolab.com/?font=Arial&weight=bold&size=32&color=8b5cf6&vCenter=true&width=450&lines=Md+Sarafat+Alam+Mozumder" alt="Md Sarafat Alam Mozumder" align="center" /></h1>
 
 <div align="center">
 
