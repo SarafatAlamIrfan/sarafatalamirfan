@@ -1,8 +1,4 @@
 <div align="center">
-  
-![banner](https://github.com/user-attachments/assets/948ed19d-29d5-491c-ae89-2f474c09c12d)
-
-<div align="center">
 
 <h1> Hi there, I'm Md Sarafat Alam Mozumder </h1>
 
