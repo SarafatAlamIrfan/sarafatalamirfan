@@ -41,12 +41,10 @@
   <br><br>
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Sarafat's GitHub Stats" height="195" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=tokyonight" alt="GitHub Streak" />
   <br><br>
 
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="195" />
 
 </div>
 ---
