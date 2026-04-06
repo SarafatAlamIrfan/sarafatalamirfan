@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1>Hi there, I'm Md Sarafat Alam Mozumder
+Hi there, I'm Md Sarafat Alam Mozumder
 
 <div align="center">
 
