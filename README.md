@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🤖 Software & Robotics Enthusiast | B.Sc. in CSE @ East West University
+### Software & Robotics Enthusiast | B.Sc. in CSE @ East West University
 **Passionate about robotics, software engineering, and creative problem-solving. I thrive on learning, building, and collaborating on projects that bridge innovation and real-world impact.**
 
 ---
