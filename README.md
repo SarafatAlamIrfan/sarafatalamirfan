@@ -55,7 +55,7 @@
   <br><br>
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarafatAlamIrfan&show_icons=true&theme=dark&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Sarafat's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=SarafatAlamIrfan&theme=highcontrast" alt="GitHub Streak" />
+  <img src="(https://streak-stats.demolab.com?user=SarafatAlamIrfan&theme=kanagawa-paper&hide_border=true" alt="GitHub Streak" />
   <br><br>
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarafatAlamIrfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="195" />
