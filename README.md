@@ -44,12 +44,14 @@
 ### 📂 Featured Projects
 
 <div align="left">
-  
-* **[Utsho-TaskHub](https://github.com/SarafatAlamIrfan)** - A role-based project management system built with PHP, MySQL, and Tailwind CSS. Features smart due-date automation and real-time visual analytics.
-* **[EWU CGPA Calculator](https://github.com/SarafatAlamIrfan/EWU-CGPA-Calculator)** - A modern web application with advanced features for East West University students to track their academic progress.
-* **[Library Management System](https://github.com/SarafatAlamIrfan/Library-Management-System-using-Java)** - A comprehensive Java-based system to streamline library operations.
-* **[Password Strength Checker](https://github.com/SarafatAlamIrfan/Password-Strength-Checker)** - A custom C++ application for evaluating password security.
-* **[BCD to 7-Segment Display](https://github.com/SarafatAlamIrfan/Binary-Coded-Decimal-BCD-to-7-Segment-Display-Driver-Circuit)** - An IC-based hardware/digital logic design project using decoders.
+
+* **[SIBIS - Blood Donors Management System](https://sibis-bd.netlify.app/)** - A comprehensive Blood Donors Management web & mobile solution built with Java, Firebase, and XML to connect donors with recipients efficiently.
+* **[EWURC Official Web Platform](https://ewuroboticsclub.com/)** - The central digital hub for the East West University Robotics Club, facilitating member coordination, event management, and club initiatives.
+* **[National RoboFest 2026 (NRF26)](https://ewuroboticsclub.com/nrf26/)** - The official event and registration platform for NRF26, managing segment details, live CTF events, and national competitor workflows.
+* **[EWU CGPA Calculator](https://ewucgcalculator.netlify.app/)** - A tailored, high-accuracy web tool for East West University students to track grades and calculate target CGPA seamlessly.
+* **[Utsho-TaskHub](https://github.com/SarafatAlamIrfan)** - A role-based project management system engineered with PHP, MySQL, and Tailwind CSS featuring smart due-date automation.
+
+</div>
 
 ---
 <div align="center">
