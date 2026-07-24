@@ -45,7 +45,7 @@
 
 <div align="left">
 
-* **[SIBIS - Blood Donors Management System](https://sibis-bd.netlify.app/)** - A comprehensive Blood Donors Management web & mobile solution built with Java, Firebase, and XML to connect donors with recipients efficiently.
+* **[SIBIS - Smart Inventory & Business Insight System](https://sibis-bd.netlify.app/)** - A unified glassmorphic enterprise dashboard streamlining inventory tracking, supplier procurement schedules, and high-speed POS checkouts.
 * **[EWURC Official Web Platform](https://ewuroboticsclub.com/)** - The central digital hub for the East West University Robotics Club, facilitating member coordination, event management, and club initiatives.
 * **[National RoboFest 2026 (NRF26)](https://ewuroboticsclub.com/nrf26/)** - The official event and registration platform for NRF26, managing segment details, live CTF events, and national competitor workflows.
 * **[EWU CGPA Calculator](https://ewucgcalculator.netlify.app/)** - A tailored, high-accuracy web tool for East West University students to track grades and calculate target CGPA seamlessly.
@@ -54,6 +54,7 @@
 </div>
 
 ---
+
 <div align="center">
   
   ### 📈 GitHub Stats
